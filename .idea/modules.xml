@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/package-one-public.iml" filepath="$PROJECT_DIR$/.idea/package-one-public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/package-two-private.iml" filepath="$PROJECT_DIR$/.idea/package-two-private.iml" />
     </modules>
   </component>
 </project>
