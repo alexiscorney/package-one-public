@@ -1,0 +1,12 @@
+{
+        "name": "alexiscorney/package-one-public",
+        "description": "test public php package",
+        "autoload": {
+                "psr-4": {
+                        "alexiscorney\\HelloWorldPackage\\": "src/"
+                        }
+        },
+        "minimum-stability": "dev",
+        "prefer-stable": true
+}
+
