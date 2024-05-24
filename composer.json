@@ -3,7 +3,7 @@
         "description": "test public php package",
         "autoload": {
                 "psr-4": {
-                        "alexiscorney\\HelloWorldPackage\\": "src/"
+                        "HelloWorldPackage\\": "src/"
                         }
         },
         "minimum-stability": "dev",
